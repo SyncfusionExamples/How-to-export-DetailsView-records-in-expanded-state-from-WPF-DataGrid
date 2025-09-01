@@ -9,6 +9,6 @@ var workbook = excelengine.Excel.Workbooks[0];
 workbook.Worksheets[0].Range.ExpandGroup(ExcelGroupBy.ByRows, ExpandCollapseFlags.IncludeSubgroups);
 ```
 
-In the below screen shot, DetailsViewDataGrid expanded only in excel file and not in SfDataGrid.
+In the below screen shot, DetailsViewDataGrid expanded only in excel file and not in DataGrid.
 
 ![Screenshot shown in DetailsView Expanded state](DetailsViewExpanded.png)
