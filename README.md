@@ -12,3 +12,8 @@ workbook.Worksheets[0].Range.ExpandGroup(ExcelGroupBy.ByRows, ExpandCollapseFlag
 In the below screen shot, DetailsViewDataGrid expanded only in excel file and not in DataGrid.
 
 ![Screenshot shown in DetailsView Expanded state](DetailsViewExpanded.png)
+
+Take a moment to peruse the [WPF DataGrid - Exporting](https://help.syncfusion.com/wpf/datagrid/export-to-excel) documentation, to learn more about exporting with examples.
+
+## Requirements to run the demo
+Visual Studio 2015 and above versions
