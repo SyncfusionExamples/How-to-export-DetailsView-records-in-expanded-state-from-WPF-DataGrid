@@ -16,4 +16,13 @@ In the below screen shot, DetailsViewDataGrid expanded only in excel file and no
 Take a moment to peruse the [WPF DataGrid - Exporting](https://help.syncfusion.com/wpf/datagrid/export-to-excel) documentation, to learn more about exporting with examples.
 
 ## Requirements to run the demo
-Visual Studio 2015 and above versions
+- Visual Studio 2015 and above versions
+- .NET Framework 4.5 or later
+- Syncfusion WPF Suite
+- XlsIO library
+- Windows 7 or later
+- Excel 2010 or later (optional, for viewing exported files)
+
+## Support and Resources
+
+For more information on Syncfusion SfDataGrid, visit [Syncfusion Documentation](https://help.syncfusion.com/wpf/datagrid/overview).
